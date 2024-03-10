@@ -7,7 +7,7 @@ if [ "$#" -eq 0 ]; then
 fi
 
 # Retrieve the name from the command-line argument
-name=$1
+name=nikhi
 
 # Print the entered name
 echo "Hello, $name! Nice to meet you."
